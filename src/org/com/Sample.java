@@ -6,4 +6,11 @@ public class Sample {
 		System.out.println(10);
 		System.out.println(212121);
 	}
+	private void m2() {
+		System.out.println(200);
+		System.out.println(12);
+	}
+	private void m3() {
+		System.out.println(500);
+	}
 }
