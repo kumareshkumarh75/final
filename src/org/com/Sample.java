@@ -10,4 +10,7 @@ public class Sample {
 	private void m2() {
 		System.out.println(12);
 	}
+	private void m3() {
+		System.out.println(22);
+	}
 }
